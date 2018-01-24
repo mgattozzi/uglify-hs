@@ -9,7 +9,7 @@ operator only versions 1.15 and up of `rustc` are supported.
 
 ## Install
 
-Just call `cargo install uglify-hs` then just use the command `uhs` in a project
+Just call `cargo install uglify-hs` then just use the command `uglify-hs` in a project
 directory to have it all minified!
 
 ## Contributing
